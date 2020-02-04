@@ -42,8 +42,8 @@ spec:
           timeoutSeconds: 1
         resources:
           requests:
-          cpu: 200m
-          periodSeconds: 10
+            cpu: 200m
+            periodSeconds: 10
           
 ---
 
